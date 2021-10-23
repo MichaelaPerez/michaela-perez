@@ -1,11 +1,11 @@
 {
-    "title": "Modern Business",
-    "name": "startbootstrap-modern-business",
-    "version": "4.2.1",
+    "title": "Michaela Perez Poetry",
+    "name": "michaela-perez-poetry",
+    "version": "2.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A multipurpose HTML website template built with Bootstrap",
+    "description": "Displays poetry.",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,20 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/modern-business",
+    "homepage": "https://michaelaperez.github.io/michaela-perez/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/MichaelaPerez/michaela-perez",
+        "email": "michaela.perez03@gmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Michaela Perez",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "David Miller (http://davidmiller.io/)",
+        "Start Bootstrap"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-modern-business.git"
+        "url": "https://github.com/MichaelaPerez/michaela-perez"
     },
     "dependencies": {
         "bootstrap": "4.3.1",
