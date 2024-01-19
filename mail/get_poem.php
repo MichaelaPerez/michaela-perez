@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "gateway.docker.internal:3306";
 $username = "pubusr";
 $password = "4@ZqSSj^9@LP#rU%";
 $dbname = "employees";
